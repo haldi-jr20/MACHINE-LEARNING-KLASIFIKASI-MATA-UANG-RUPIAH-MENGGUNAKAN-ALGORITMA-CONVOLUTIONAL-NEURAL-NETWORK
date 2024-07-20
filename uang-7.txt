@@ -1,1 +1,0 @@
-{0: '100RIBU', 1: '10RIBU', 2: '1RIBU', 3: '20RIBU', 4: '2RIBU', 5: '50RIBU', 6: '5RIBU'}
