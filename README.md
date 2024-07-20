@@ -1,7 +1,7 @@
 
-== MACHINE LEARNING KLASIFIKASI MATA UANG RUPIAH MENGGUNAKAN ALGORITMA CONVOLUTIONAL NEURAL NETWORK ==
+_MACHINE LEARNING_ KLASIFIKASI MATA UANG RUPIAH MENGGUNAKAN ALGORITMA _CONVOLUTIONAL NEURAL NETWORK_
 
-*Program ini dibuat untuk memenuhi tugas pengganti UTS & UAS dari mata kuliah Algoritma dan Pemrograman II, Universitas Muhammadiyah Sorong*
+Program ini dibuat untuk memenuhi tugas pengganti UTS & UAS dari mata kuliah Algoritma dan Pemrograman II, Universitas Muhammadiyah Sorong.
 
 TUTORIAL PENGGUNAAN: 
 
